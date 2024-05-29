@@ -33,4 +33,4 @@ The data model used in this Power BI report is included in the repository as `Da
 
 The data source used in this Power BI report is an Excel file containing the store sales data. You can access the Excel file by clicking the button below:
 
-[![View Excel Data](https://img.shields.io/badge/View-Excel%20Data-green?logo=microsoft-excel)](path/to/your-data-file.xlsx)
+[![View Excel Data](https://img.shields.io/badge/View-Excel%20Data-green?logo=microsoft-excel)](path/to/Sample Superstore.xlsx)
