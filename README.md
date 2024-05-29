@@ -21,7 +21,7 @@ The report incorporates various types of visuals, including bar charts, line cha
 
 ## Data Model 
 
-The data model used in this Power BI report is included in the repository as `![Data Model](./Data-Model.png)`. This image provides a visual representation of the data relationships and tables used in the report, aiding in understanding the data structure and connections.
+The data model used in this Power BI report is included in the repository as `Data Model.png`. This image provides a visual representation of the data relationships and tables used in the report, aiding in understanding the data structure and connections.
 
 ![Data Model](https://github.com/tushar11720/Store-Sales-Dashboard-Report/assets/132842128/954b5215-2cb8-425e-bb7c-cf7dce00c813)
 
@@ -29,3 +29,8 @@ The data model used in this Power BI report is included in the repository as `![
 1. Microsoft Power BI
 2. MS Excel
 
+## Data Source
+
+The data source used in this Power BI report is an Excel file containing the store sales data. You can access the Excel file by clicking the button below:
+
+[![View Excel Data](https://img.shields.io/badge/View-Excel%20Data-green?logo=microsoft-excel)](path/to/your-data-file.xlsx)
