@@ -19,11 +19,11 @@ The Power BI report consists of the following components:
 
 The report incorporates various types of visuals, including bar charts, line charts, pie charts, tables, and cards, to effectively communicate the sales data and enable interactive analysis.
 
-## Data Model
+## Data Model 
 
-The data model used in this Power BI report is included in the repository as `data-model.png`. This image provides a visual representation of the data relationships and tables used in the report, aiding in understanding the data structure and connections.
+The data model used in this Power BI report is included in the repository as `![Data Model](./Data-Model.png)`. This image provides a visual representation of the data relationships and tables used in the report, aiding in understanding the data structure and connections.
 
-![Data Model](Data-Model.png)
+![Data Model](https://github.com/tushar11720/Store-Sales-Dashboard-Report/assets/132842128/954b5215-2cb8-425e-bb7c-cf7dce00c813)
 
 ## Tools and Technology used-
 1. Microsoft Power BI
