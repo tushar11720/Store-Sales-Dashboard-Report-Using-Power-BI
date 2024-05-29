@@ -23,7 +23,7 @@ The report incorporates various types of visuals, including bar charts, line cha
 
 The data model used in this Power BI report is included in the repository as `data-model.png`. This image provides a visual representation of the data relationships and tables used in the report, aiding in understanding the data structure and connections.
 
-![Data Model](data-model.png)
+![Data Model](Data-Model.png)
 
 ## Tools and Technology used-
 1. Microsoft Power BI
